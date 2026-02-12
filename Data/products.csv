@@ -1,0 +1,76 @@
+ProductID,Category,SubCategory,ProductName,Manufacturer,UnitCost,UnitPrice,LaunchYear
+P1000,Furniture,Chair,Chair Model 1,Dell,12860.65,13970.08,2019
+P1001,Furniture,Chair,Chair Model 2,Acer,4619.57,9783.71,2018
+P1002,Furniture,Chair,Chair Model 3,Havells,11891.75,13034.37,2019
+P1003,Furniture,Chair,Chair Model 4,Acer,4806.69,9242.91,2019
+P1004,Furniture,Chair,Chair Model 5,Canon,14377.19,,2019
+P1005,Furniture,Table,Table Model 1,Godrej,9094.34,13217.5,2019
+P1006,Furniture,Table,Table Model 2,Lenovo,14023.16,21642.83,2019
+P1007,Furniture,Table,Table Model 3,Havells,19152.82,29458.23,2021
+P1008,Furniture,Table,Table Model 4,Zebronics,2114.98,4819.76,2020
+P1009,Furniture,Table,Table Model 5,Acer,16181.14,34111.64,2018
+P1010,Furniture,Bookcase,Bookcase Model 1,Acer,19467.69,31126.4,2020
+P1011,Furniture,Bookcase,Bookcase Model 2,Samsung,16622.21,32361.01,2022
+P1012,Furniture,Bookcase,Bookcase Model 3,HP,4007.31,,2020
+P1013,Furniture,Bookcase,Bookcase Model 4,Havells,19707.39,45134.08,2021
+P1014,Furniture,Bookcase,Bookcase Model 5,,5703.88,11246.58,2019
+P1015,Furniture,Filing Cabinet,Filing Cabinet Model 1,,7529.58,10193.43,2023
+P1016,Furniture,Filing Cabinet,Filing Cabinet Model 2,Zebronics,18745.76,37297.53,2023
+P1017,Furniture,Filing Cabinet,Filing Cabinet Model 3,Lenovo,3588.55,7561.91,2021
+P1018,Furniture,Filing Cabinet,Filing Cabinet Model 4,Acer,7713.22,19165.88,2019
+P1019,Furniture,Filing Cabinet,Filing Cabinet Model 5,Godrej,13755.36,31254.04,2019
+P1020,Furniture,Sofa,Sofa Model 1,Canon,16471.69,36522.95,2020
+P1021,Furniture,Sofa,Sofa Model 2,Zebronics,1510.53,,2023
+P1022,Furniture,Sofa,Sofa Model 3,,6430.62,12863.72,2023
+P1023,Furniture,Sofa,Sofa Model 4,,9285.27,13315.79,2023
+P1024,Furniture,Sofa,Sofa Model 5,Zebronics,11315.09,16191.61,2021
+P1025,Office Supplies,Paper,Paper Model 1,HP,17976.89,29286.7,2019
+P1026,Office Supplies,Paper,Paper Model 2,,10288.62,12159.28,2018
+P1027,Office Supplies,Paper,Paper Model 3,Canon,3226.26,4135.98,2022
+P1028,Office Supplies,Paper,Paper Model 4,Logitech,1457.85,2337.44,2022
+P1029,Office Supplies,Paper,Paper Model 5,Godrej,5178.0,9590.58,2023
+P1030,Office Supplies,Binders,Binders Model 1,Acer,14470.29,29497.4,2020
+P1031,Office Supplies,Binders,Binders Model 2,Dell,15418.25,23794.28,2021
+P1032,Office Supplies,Binders,Binders Model 3,Dell,3331.52,3513.77,2022
+P1033,Office Supplies,Binders,Binders Model 4,Havells,15286.85,27304.43,2023
+P1034,Office Supplies,Binders,Binders Model 5,Zebronics,6109.21,12074.71,2019
+P1035,Office Supplies,Pens,Pens Model 1,Acer,3226.22,6954.57,2022
+P1036,Office Supplies,Pens,Pens Model 2,Logitech,18386.17,35273.31,2018
+P1037,Office Supplies,Pens,Pens Model 3,Dell,2414.98,3806.79,2019
+P1038,Office Supplies,Pens,Pens Model 4,Havells,1346.92,3129.05,2018
+P1039,Office Supplies,Pens,Pens Model 5,Acer,14691.77,32810.16,2019
+P1040,Office Supplies,Labels,Labels Model 1,Acer,2742.15,4769.04,2019
+P1041,Office Supplies,Labels,Labels Model 2,Canon,5448.12,12612.55,2019
+P1042,Office Supplies,Labels,Labels Model 3,HP,18592.49,39883.39,2023
+P1043,Office Supplies,Labels,Labels Model 4,Samsung,6371.98,15885.13,2021
+P1044,Office Supplies,Labels,Labels Model 5,HP,18012.36,30704.86,2019
+P1045,Office Supplies,Envelopes,Envelopes Model 1,Acer,1467.71,1585.86,2019
+P1046,Office Supplies,Envelopes,Envelopes Model 2,Godrej,11851.11,,2019
+P1047,Office Supplies,Envelopes,Envelopes Model 3,Samsung,1534.53,1681.15,2018
+P1048,Office Supplies,Envelopes,Envelopes Model 4,Logitech,10380.29,15090.78,2019
+P1049,Office Supplies,Envelopes,Envelopes Model 5,Zebronics,10876.83,22828.96,2022
+P1050,Technology,Laptop,Laptop Model 1,Canon,9558.89,20911.97,2019
+P1051,Technology,Laptop,Laptop Model 2,Samsung,2067.65,4146.72,2021
+P1052,Technology,Laptop,Laptop Model 3,Godrej,8339.83,,2023
+P1053,Technology,Laptop,Laptop Model 4,Godrej,13138.42,26105.52,2021
+P1054,Technology,Laptop,Laptop Model 5,Havells,14618.63,32319.73,2019
+P1055,Technology,Monitor,Monitor Model 1,Lenovo,3993.48,,2021
+P1056,Technology,Monitor,Monitor Model 2,Havells,3833.06,6595.97,2021
+P1057,Technology,Monitor,Monitor Model 3,Havells,16198.84,,2018
+P1058,Technology,Monitor,Monitor Model 4,Godrej,13112.47,24046.34,2018
+P1059,Technology,Monitor,Monitor Model 5,Lenovo,18542.07,42287.21,2021
+P1060,Technology,Printer,Printer Model 1,Canon,9815.69,13348.69,2018
+P1061,Technology,Printer,Printer Model 2,Canon,3459.82,3643.62,2020
+P1062,Technology,Printer,Printer Model 3,Dell,18545.06,,2021
+P1063,Technology,Printer,Printer Model 4,Acer,13992.51,29513.46,2023
+P1064,Technology,Printer,Printer Model 5,Dell,14424.48,18383.36,2019
+P1065,Technology,Phone,Phone Model 1,Acer,19380.45,36625.4,2018
+P1066,Technology,Phone,Phone Model 2,Zebronics,15009.92,17004.58,2021
+P1067,Technology,Phone,Phone Model 3,Lenovo,10156.44,23222.13,2018
+P1068,Technology,Phone,Phone Model 4,Lenovo,19223.42,22417.61,2018
+P1069,Technology,Phone,Phone Model 5,HP,11981.7,24311.57,2021
+P1070,Technology,Router,Router Model 1,HP,2573.75,6024.93,2022
+P1071,Technology,Router,Router Model 2,,11971.48,23321.68,2023
+P1072,Technology,Router,Router Model 3,Dell,11756.71,21256.54,2019
+P1073,Technology,Router,Router Model 4,Dell,13460.57,20265.78,2021
+P1074,Technology,Router,Router Model 5,Logitech,2791.39,5543.63,2020
