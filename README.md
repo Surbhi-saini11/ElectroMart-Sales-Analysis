@@ -4,7 +4,7 @@
 
 <h1 align="center">Sales Analysis Report</h1>
 
-## 🏢 Client Introduction — ElectroMart
+##  Client Introduction 
 
 **ElectroMart** is an India-based e-commerce company specializing in the sale of electronic products across multiple regions of the country. Established in **2020**, the company operates across **16 states and 30 cities in India**, offering a wide range of consumer electronics through its online platform.
 
@@ -12,7 +12,7 @@ Since its inception, ElectroMart has experienced significant growth and has gene
 
 To support this expansion strategy, the **Head of Operations** has engaged the analytics team to analyze historical operational and sales data from **2020 to 2025**.
 
-### 🎯 Project Objectives
+###  Project Objectives
 
 The objective of this analysis is to:
 
