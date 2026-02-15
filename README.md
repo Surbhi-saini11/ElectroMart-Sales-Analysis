@@ -23,3 +23,5 @@ The objective of this analysis is to:
 - Identify key areas to improve profit margins  
 
 The insights derived from this analysis will help ElectroMart optimize its operations, enhance profitability, and develop a sustainable growth strategy for future expansion.
+
+---
