@@ -24,7 +24,6 @@ The objective of this analysis is to:
 
 The insights derived from this analysis will help ElectroMart optimize its operations, enhance profitability, and develop a sustainable growth strategy for future expansion.
 
----
 
 ## EXECUTIVE SUMMARY
 
