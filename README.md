@@ -25,3 +25,23 @@ The objective of this analysis is to:
 The insights derived from this analysis will help ElectroMart optimize its operations, enhance profitability, and develop a sustainable growth strategy for future expansion.
 
 ---
+
+## EXECUTIVE SUMMARY
+
+
+
+<div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 5px;">
+
+
+1.**Revenue Analysis**
+  
+    
+- ElectroMart has generated the Revenue of  ~ **₹ 175 Crores** and the net profit of **₹ 23 Crores** with an overall profit margin of **13.4%** from its operation starting from 2020 to 2025 across 30+ cities and 16 states in INDIA.
+- Q1 2025 saw the highes revenue(**₹23 crores**) and profit of **₹ 3.6 Crores** making it the best-performing period.
+- 
+</div>
+
+
+
+
+
