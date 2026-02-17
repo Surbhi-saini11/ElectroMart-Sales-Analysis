@@ -33,11 +33,15 @@ The insights derived from this analysis will help ElectroMart optimize its opera
 
 
 1.**Revenue Analysis**
-  
-    
-- ElectroMart has generated the Revenue of  ~ **₹ 175 Crores** and the net profit of **₹ 23 Crores** with an overall profit margin of **13.4%** from its operation starting from 2020 to 2025 across 30+ cities and 16 states in INDIA.
+
+
+- ElectroMart has generated the revenue of  ~ **₹ 175 Crores** and the net profit of **₹ 23 Crores** with an overall profit margin of **13.4%** from its operation starting from 2020 to 2025 across 30+ cities and 16 states in INDIA.
 - Q1 2025 saw the highes revenue(**₹23 crores**) and profit of **₹ 3.6 Crores** making it the best-performing period.
-- 
+- Product categories **Smartphones** and **Laptops** bring in the highest sales which is ~
+**93 Crores** but High-margin accessories(23%) present a strong opportunity for margin-focused sales strategies through cross-selling and product bundling.
+- YoY growth 
+</div>
+
 </div>
 
 
