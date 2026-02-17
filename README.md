@@ -25,22 +25,58 @@ The objective of this analysis is to:
 The insights derived from this analysis will help ElectroMart optimize its operations, enhance profitability, and develop a sustainable growth strategy for future expansion.
 
 
-## EXECUTIVE SUMMARY
-
-
-
 <div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 5px;">
 
+## **Executive Summary — ElectroMart Performance Analysis (2020–2025)**
 
-1.**Revenue Analysis**
+### **Overall Performance Metrics (2020–2025)**
 
+- **Total Revenue:** ₹174.75 Crores  
+- **Total Profit:** ₹23.48 Crores  
+- **Average Profit Margin:** 13.4%  
+- **Total Orders:** 28,732  
+- **Total Order Lines:** 30,000  
+- **Total Customers:** 4,989  
+- **Average Order Value (AOV):** ₹60,825  
+- **Return Rate:** 9.94%  
+- **Geographic Reach:** 30+ cities across 16 states in India  
 
-- ElectroMart has generated the revenue of  ~ **₹ 175 Crores** and the net profit of **₹ 23 Crores** with an overall profit margin of **13.4%** from its operation starting from 2020 to 2025 across 30+ cities and 16 states in INDIA.
-- Q1 2025 saw the highes revenue(**₹23 crores**) and profit of **₹ 3.6 Crores** making it the best-performing period.
-- Product categories **Smartphones** and **Laptops** bring in the highest sales which is ~
-**93 Crores** but High-margin accessories(23%) present a strong opportunity for margin-focused sales strategies through cross-selling and product bundling.
-- YoY growth 
+---
+
+### **Key Business Insights**
+
+- ElectroMart generated approximately **₹175 Crores in total revenue** and **₹23 Crores in net profit** between 2020 and 2025, maintaining a healthy **overall profit margin of 13.4%** across its operations in India.
+
+- **Q1 2025** was the best-performing period, recording the highest revenue (**₹23 Crores**) and profit (**₹3.6 Crores**), indicating strong recent business momentum.
+
+- **Smartphones** and **Laptops** were the primary revenue drivers, contributing nearly **₹93 Crores** in total sales.
+
+- **Accessories**, despite lower sales volume, delivered the **highest profit margin (~23%)**, presenting a strong opportunity for **margin-focused sales strategies** through cross-selling and product bundling.
+
+- **Year-over-Year (YoY) growth analysis** indicates a consistent and strong upward trend in both order volume and revenue, demonstrating sustained business expansion and increasing market penetration.
+
+---
+
+### **Year-over-Year Growth Trend**
+
+<div align='center'>
+
+| Year | Orders | Revenue (₹ Cr) | Growth Rate |
+|------|--------|----------------|-------------|
+| 2020 | 2,161 | 13.21 | Baseline (COVID Impact) |
+| 2021 | 3,239 | 19.54 | +49.9% |
+| 2022 | 4,647 | 27.86 | +43.4% |
+| 2023 | 6,628 | 39.85 | +42.6% |
+| 2024 | 8,426 | 51.28 | +27.1% |
+| 2025 | 3,631 | 23.01 | Partial Year |
+
 </div>
+
+---
+
+### **Business Implication**
+
+The analysis highlights strong revenue growth, expanding geographic presence, and high-margin product opportunities. Strategic focus on high-margin accessories, customer expansion, and continued growth in core product categories can further enhance profitability and long-term business performance.
 
 </div>
 
