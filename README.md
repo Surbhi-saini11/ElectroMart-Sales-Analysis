@@ -16,11 +16,11 @@ To support this expansion, the Head of Operations of ElectroMart has asked the a
 
 The objective of this analysis is to :
 
-	- Evaluate overall business performance and sales trends
-	- Identify key drivers of revenue and profitability
-	- Detect operational inefficiencies and improvement opportunities 
-	- Provide data-driven recommendations to support strategic expansion
-	- Identify key areas to improve profit margin
+- Evaluate overall business performance and sales trends
+- Identify key drivers of revenue and profitability
+- Detect operational inefficiencies and improvement opportunities 
+- Provide data-driven recommendations to support strategic expansion
+- Identify key areas to improve profit margin
  
 
 
