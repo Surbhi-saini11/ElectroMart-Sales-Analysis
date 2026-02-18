@@ -10,7 +10,7 @@
  
 The company has experienced significant growth, generating approximately **Rs. 175 Crores in revenue** between **2020 and Q1 2025**. With a strong market presence, the company plans to expand its operations by entering additional cities and states across India, along with the introduction of new electronic products catering to the needs of a wide range of customers.
 
-To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025 . This comprehensive review provides valuable insights which will be utilized to streamline processes, enhance profitability and develop a sustainable growth strategy for future expansion.
+To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025. This comprehensive review provides valuable insights that will be utilized to streamline processes, enhance profitability, and develop a sustainable growth strategy for future expansion.
 
 ### PROJECT OBJECTIVE
 
@@ -44,18 +44,15 @@ The objective of this analysis is to :
 |Geographic Reach| 30+ cities across 16 states in India|
 
 ---
+### Key Business Insights
 
-### **Key Business Insights**
+- ElectroMart generated approximately ₹175 crores in total revenue and ₹23 crores in net profit between 2020 and 2025, maintaining a healthy overall profit margin of 13.4%.
 
-- ElectroMart generated approximately **₹175 Crores in total revenue** and **₹23 Crores in net profit** between 2020 and 2025, maintaining a healthy **overall profit margin of 13.4%** across its operations in India.
+- Q1 2025 was the best-performing period, recording the highest total sales of ₹23 crores and profit of ₹3.6 crores, indicating strong market performance.
 
-- **Q1 2025** was the best-performing period, recording the highest revenue (**₹23 Crores**) and profit (**₹3.6 Crores**), indicating strong recent business momentum.
+- Smartphones and laptops were the primary revenue drivers, contributing nearly ₹93 crores in total sales. While accessories with lower sales delivered, high profit margin(~ 23%).
 
-- **Smartphones** and **Laptops** were the primary revenue drivers, contributing nearly **₹93 Crores** in total sales.
-
-- **Accessories**, despite lower sales volume, delivered the **highest profit margin (~23%)**, presenting a strong opportunity for **margin-focused sales strategies** through cross-selling and product bundling.
-
-- **Year-over-Year (YoY) growth analysis** indicates a consistent and strong upward trend in both order volume and revenue, demonstrating sustained business expansion and increasing market penetration.
+- Year-over-Year(YoY) growth analysis indicates a consistent and strong upward trend in both order volume and sales, demonstrating sustainable business expansion and increasing market penetration.
 
 ---
 
