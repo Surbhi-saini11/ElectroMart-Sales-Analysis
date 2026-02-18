@@ -32,15 +32,16 @@ The objective of this analysis is to :
 
 ### **Overall Performance Metrics (2020–2025)**
 
-- **Total Revenue:** ₹174.75 Crores  
-- **Total Profit:** ₹23.48 Crores  
-- **Average Profit Margin:** 13.4%  
-- **Total Orders:** 28,732  
-- **Total Order Lines:** 30,000  
-- **Total Customers:** 4,989  
-- **Average Order Value (AOV):** ₹60,825  
-- **Return Rate:** 9.94%  
-- **Geographic Reach:** 30+ cities across 16 states in India  
+|Metrics|Value|
+|------|------|
+|Total Sales | ~ ₹ 175 Crores|
+|Total Profit | ₹23.48 Crores|
+|Averag Profit Margin|13.4%|
+|Total Orders|28,732|
+|Total Customers|4,989|
+|AOV|₹60,825|
+|Return Rate | 9.94%|
+|Geographic Reach| 30+ cities across 16 states in India|
 
 ---
 
