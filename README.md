@@ -28,7 +28,7 @@ The objective of this analysis is to :
 
 <div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 5px;">
 
-## **Executive Summary — ElectroMart Performance Analysis (2020–2025)**
+## **Executive Summary**
 
 ### **Overall Performance Metrics (2020–2025)**
 
@@ -58,7 +58,7 @@ The objective of this analysis is to :
 
 ### **Year-over-Year Growth Trend**
 
-<div align='center'>
+<div>
 
 | Year | Orders | Revenue (₹ Cr) | Growth Rate |
 |------|--------|----------------|-------------|
@@ -73,9 +73,11 @@ The objective of this analysis is to :
 
 ---
 
-### **Business Implication**
+### **Key takeaways & recommendations**
 
-The analysis highlights strong revenue growth, expanding geographic presence, and high-margin product opportunities. Strategic focus on high-margin accessories, customer expansion, and continued growth in core product categories can further enhance profitability and long-term business performance.
+-
+-
+
 
 </div>
 
