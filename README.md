@@ -4,25 +4,26 @@
 
 <h1 align="center">Sales Analysis Report</h1>
 
-##  Client Introduction 
+## CLIENT INTRODUCTION
 
-**ElectroMart** is an India-based e-commerce company specializing in the sale of electronic products across multiple regions of the country. Established in **2020**, the company operates across **16 states and 30 cities in India**, offering a wide range of consumer electronics through its online platform.
+**ElectroMart** is an India-based e-commerce company that started its operation in **2020** and deals in electronic products across **16 states and more than 30 cities** in India, offering a wide range of consumer electronics through its online platform.
+ 
+The company has experienced significant growth, generating approximately **Rs. 175 Crores in revenue** between **2020 and Q1 2025**. With a strong market presence, the company plans to expand its operations by entering additional cities and states across India, along with the introduction of new electronic products catering to the needs of a wide range of customers.
 
-Since its inception, ElectroMart has experienced significant growth and has generated approximately **₹175 crore in total sales between 2020 and 2025**. With a strong market presence and expanding customer base, the company is now planning to scale its operations by entering additional cities and states across India.
+To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025 . This comprehensive review provides valuable insights which will be utilized to streamline processes, enhance profitability and develop a sustainable growth strategy for future expansion.
 
-To support this expansion strategy, the **Head of Operations** has engaged the analytics team to analyze historical operational and sales data from **2020 to 2025**.
+### PROJECT OBJECTIVE
 
-###  Project Objectives
+The objective of this analysis is to :
 
-The objective of this analysis is to:
+	- Evaluate overall business performance and sales trends
+	- Identify key drivers of revenue and profitability
+	- Detect operational inefficiencies and improvement opportunities 
+	- Provide data-driven recommendations to support strategic expansion
+	- Identify key areas to improve profit margin
+ 
 
-- Evaluate overall business performance and sales trends  
-- Identify key drivers of revenue and profitability  
-- Detect operational inefficiencies and improvement opportunities  
-- Provide data-driven recommendations to support strategic expansion  
-- Identify key areas to improve profit margins  
 
-The insights derived from this analysis will help ElectroMart optimize its operations, enhance profitability, and develop a sustainable growth strategy for future expansion.
 
 
 <div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 5px;">
