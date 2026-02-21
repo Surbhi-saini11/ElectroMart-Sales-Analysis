@@ -1,0 +1,65 @@
+product_id,product_name,subcategory,unit_price
+PROD01001,Samsung Galaxy S21,Smartphones,54999
+PROD01002,Samsung Galaxy M32,Smartphones,14999
+PROD01003,iPhone 13,Smartphones,79900
+PROD01004,iPhone 12,Smartphones,59900
+PROD01005,OnePlus 9 Pro,Smartphones,64999
+PROD01006,OnePlus Nord 2,Smartphones,27999
+PROD01007,Redmi Note 10 Pro,Smartphones,15999
+PROD01008,Realme GT Master,Smartphones,24999
+PROD01009,Vivo V21,Smartphones,29990
+PROD01010,Oppo Reno 6,Smartphones,29990
+PROD01011,Google Pixel 6,Smartphones,44999
+PROD01012,Samsung Galaxy A52,Smartphones,26499
+PROD01013,iPhone 14 Pro,smart phones,129900
+PROD01014,Redmi 9 Power,Smartphones,10999
+PROD01015,Dell Inspiron 15 3000,Laptops,42990
+PROD01016,HP Pavilion 14,Laptops,54990
+PROD01017,Lenovo IdeaPad Slim 3,Laptops,38990
+PROD01018,ASUS VivoBook 15,Laptops,46990
+PROD01019,Acer Aspire 5,Laptops,44990
+PROD01020,MacBook Air M1,Laptops,92990
+PROD01021,MacBook Pro 14,Laptops,
+PROD01022,Dell XPS 13,Laptops,139990
+PROD01023,HP Envy 13,Laptops,84990
+PROD01024,Lenovo ThinkPad E14,Laptops,56990
+PROD01025,iPad 9th Gen,Tablets,30900
+PROD01026,Samsung Galaxy Tab S7  ,Tablets,55999
+PROD01027,Lenovo Tab M10,Tablets,13999
+PROD01028,Amazon Fire HD 10,Tablets,14999
+PROD01029,iPad Pro 11,Tablets,71900
+PROD01030,Sony WH-1000XM4,Audio,24990
+PROD01031,JBL Tune 750BTNC,Audio,6999
+PROD01032,boAt Rockerz 450,Audio,1499
+PROD01033,Apple AirPods Pro,Audio,24900
+PROD01034,OnePlus Buds Z,Audio,2999
+PROD01035,Realme Buds Q2,Audio,2499
+PROD01036,Samsung Galaxy Buds Pro,Audio,15990
+PROD01037,Noise Buds VS104,Audio,1299
+PROD01038,Apple Watch Series 7,Wearables,41900
+PROD01039,Samsung Galaxy Watch 4,Wearables,23999
+PROD01040,Amazfit GTS 2 Mini,Wearables,6999
+PROD01041,Noise ColorFit Pro 3,Wearables,3499
+PROD01042,Realme Watch S Pro,Wearables,9999
+PROD01043,Fire-Boltt Beast,Wearables,1799
+PROD01044,"Samsung 55"" 4K Smart TV",Televisions,54990
+PROD01045,"LG 43"" Full HD Smart TV",Televisions,32990
+PROD01046,"Sony Bravia 65"" 4K",Televisions,104990
+PROD01047,"Mi TV 4X 50""",Televisions,31999
+PROD01048,"OnePlus 55"" 4K TV",Televisions,39999
+PROD01049,"TCL 32"" HD Smart TV",Televisions,14999
+PROD01050,Canon EOS 1500D,Cameras,31999
+PROD01051,Nikon D3500,Cameras,29999
+PROD01052,Sony Alpha A6400,Cameras,79990
+PROD01053,GoPro Hero 10,Cameras,49999
+PROD01054,DJI Mini 2 Drone,Cameras,44999
+PROD01055,Logitech MX Master 3,Accessories,8995
+PROD01056,HP M24 Monitor,Accessories,13999
+PROD01057,Dell P2422H Monitor,Accessories,17999
+PROD01058,Zebronics Zeb-Transformer,Accessories,899
+PROD01059,Ant Esports MK1200,Accessories,1499
+PROD01060,Portronics Toad 23,Accessories,2999
+PROD01061,PlayStation 5,Gaming,49990
+PROD01062,Xbox Series X,Gaming,49990
+PROD01063,Nintendo Switch,Gaming,32999
+PROD01064,Logitech G502 Mouse,Gaming,3995
