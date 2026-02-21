@@ -24,7 +24,7 @@ The objective of this analysis is to :
 - Identify key areas to improve profit margin
 ---
 ## Dataset Entity Relationship Diagram(ERD)
-This project follows the Medallion Architecture(Bronze -> Silver -> Gold) to build scalable and structured data warehouse for the ElectroMart's e-commerce analytics.
+This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to build scalable and structured data warehouse for the ElectroMart's e-commerce analytics.
 
  The architecture ensures:
 - Clear data flow and transformation stages
@@ -62,7 +62,7 @@ This project follows the Medallion Architecture(Bronze -> Silver -> Gold) to bui
 - ElectroMart, generated approximately **₹167 crores** in total revenue and **₹22.27 crores** in profit between **2020 to Q1 2025**, maintaining a consistent overall profit margin of **13.4%**.
 - The business  demonstrates strong growth from **2020-2023**, driven by increasing order volume and strong demand for laptops and smartphones.
 - Recent performance signals emerging challenges as a significant decline in sales and AOV in 2024-2025 indicates slowing demand, potential shifts in product mix and increased dependence on seasonal sales.
-- High-margin categories such as accessories and audio (~ **23% profit margin each) present profitability opportunities, customer spending remains widely distributed with **low revenue concentration** among top customers.
+- High-margin categories such as accessories and audio (~ **23%** profit margin each) present profitability opportunities, customer spending remains widely distributed with **low revenue concentration** among top customers.
 
 - Overall, the business shows strong market presence and growth potential but requires strategic intervention in demand generation, customer value optimization, and revenue diversification to sustain long-term growth.
 
