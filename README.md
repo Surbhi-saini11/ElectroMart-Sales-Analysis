@@ -22,11 +22,26 @@ The objective of this analysis is to :
 - Detect operational inefficiencies and improvement opportunities 
 - Provide data-driven recommendations to support strategic expansion
 - Identify key areas to improve profit margin
+---
+## Dataset Entity Relationship Diagram(ERD)
+This project follows the Medallion Architecture(Bronze -> Silver -> Gold) to build scalable and structured data warehouse for the ElectroMart's e-commerce analytics.
+
+ The architecture ensures:
+- Clear data flow and transformation stages
+- Improved data quality and reliability
+- Cleaned and analytical data
+- Efficient and reproducible analytical workflows
+
+ <div> 
+  
+ ### Gold Layer (Star Schema Design)
  
+ - The gold layer contains analysis-ready, business-level data optimized for reporting, dashboards and businesss decision-making.
+ 
+<img width="719" height="520" alt="star_schema_erd_styled" src="https://github.com/user-attachments/assets/33d2e2c9-16d5-4520-a1b2-9cd1d5081e78" />
+</div>
 
-
-
-
+---
 <div style="background-color: rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 5px;">
 
 ## **Executive Summary**
