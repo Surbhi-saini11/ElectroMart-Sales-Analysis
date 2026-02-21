@@ -34,7 +34,12 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 
  <div> 
   
- ### Gold Layer (Star Schema Design)
+ ### Architecture Summary
+ - **Bronze** preserves raw data source
+ - **Silver** improves data quality
+ - **Gold** business-ready database using snowflake schema modeling
+  
+ ### Gold Layer (Snowflake Schema Design)
  
  - The gold layer contains analysis-ready, business-level data optimized for reporting, dashboards and businesss decision-making.
  
