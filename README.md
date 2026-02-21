@@ -26,12 +26,6 @@ The objective of this analysis is to :
 ## Dataset Entity Relationship Diagram(ERD)
 This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to build scalable and structured data warehouse for the ElectroMart's e-commerce analytics.
 
- The architecture ensures:
-- Clear data flow and transformation stages
-- Improved data quality and reliability
-- Cleaned and analytical data
-- Efficient and reproducible analytical workflows
-
  <div> 
   
  ### Architecture Summary
