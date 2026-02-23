@@ -82,6 +82,9 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 - Sales declined by **32%** in **2024**(**₹34.53 crore**), primarily driven by a significant drop in order volume. Further investigation is needed to identify the key drivers behind such decline.
 - **35% to 39%** of the annual revenue comes from Q4 each year, indicating strong seasonal demand driven by the festival period, particularly Diwali (Oct-Nov).
 
+<img width="2819" height="1237" alt="Quarterly_Sales_ _Profit" src="https://github.com/user-attachments/assets/deed7280-aaeb-42a4-a8f7-31255d3ec1b4" />
+
+
 ### 2. Product Analysis 
 
 - ElectroMart deals in 64 unique products across multiple categories, indicating a diversified product portfolio. 
@@ -99,6 +102,8 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 | Wearables | 3,004 | 6.80 Cr. | 1.07 Cr. | 15.77% |
 | Audio | 3,980 | 6.25 Cr. | 1.48 Cr. | 23.64% |
 | Accessories | 2,794 | 3.26 Cr. | 0.77 Cr. | 23.53% |
+
+<img width="2346" height="1197" alt="Sales by top 10 products" src="https://github.com/user-attachments/assets/36fbe28a-a9c8-4e4a-b01c-ff0c30c027d3" />
 
 
 ### 3. AOV Analysis
