@@ -150,3 +150,10 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 ### 6. Improve customer Value & Segmentation strategy
 - Introduce loyalty programs or exclusive benefits for high-value customers.
 - Encourage repeat purchase through retention campaigns.
+
+## ELECTROMART EXECUTIVE SALES DASHBOARD
+
+<img width="1574" height="899" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/d9a3d156-0c40-491b-85df-e62f57d3a0bc" />
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/ElectroMart_Executive_Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> Click the image to open the live interactive dashboard on Tableau Public
