@@ -11,7 +11,7 @@
 
 The company has experienced significant growth, generating approximately **Rs. 167 Crores in revenue** between **2020 and Q1 2025**. With a strong market presence, the company plans to expand its operations by entering additional cities and states across India, along with the introduction of new electronic products catering to the needs of a wide range of customers.
 
-To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025. This comprehensive review provides valuable insights that will be utilized to streamline processes, enhance profitability, and develop a sustainable growth strategy for future expansion.
+To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025. This comprehensive review provides valuable insights that will be utilized to streamline processes, imporove profitability, and develop a sustainable growth strategy for future expansion.
 
 ### PROJECT OBJECTIVE
 
@@ -24,18 +24,18 @@ The objective of this analysis is to :
 - Identify key areas to improve profit margin
 ---
 ## Dataset Entity Relationship Diagram(ERD)
-This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to build scalable and structured data warehouse for the ElectroMart's e-commerce analytics.
+This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to build scalable and structured data warehouse for  ElectroMart's e-commerce analytics.
 
  <div> 
   
  ### Architecture Summary
- - **Bronze** preserves raw data source
+ - **Bronze** preserves raw-data source
  - **Silver** improves data quality
  - **Gold** business-ready database using snowflake schema modeling
   
  ### Gold Layer (Snowflake Schema Design)
  
- - The gold layer contains analysis-ready, business-level data optimized for reporting, dashboards and businesss decision-making.
+ - The gold layer contains analysis-ready, business-level data optimized for reporting, dashboards and business decision-making.
  
 <img width="719" height="520" alt="star_schema_erd_styled" src="https://github.com/user-attachments/assets/33d2e2c9-16d5-4520-a1b2-9cd1d5081e78" />
 </div>
@@ -108,14 +108,14 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 
 ### 3. AOV Analysis
 
-- The Average order value(AOV) from 2020 to Q1 2025 is **₹55.8k**. Year 2020 saw the lowest annual AOV of ₹42k, while 2023 had the highest AOV(₹61.2k) which is **9.25%** more than average.
+- The Average order value(AOV) from 2020 to Q1 2025 is **₹55.8k**. Year 2020 saw the lowest annual AOV of ₹42k, while 2023 had the highest AOV(₹61.2k), which is **9.25%** more than average.
 - A consistent decline in AOV is observed in Q2 each year, this may indicate reduced purchase of premium products or seasonal demand variation. Further analysis of discount campaigns and product mix is required.
 - 2025 starts with the all time low AOV(₹37.5k) in Q1, indicating a slow start and decline in sales by **46%** compared to Q1 2024. Strategies such as product bundling, upselling premium products and targeted promotions may help increase order value.
 
 
 ### 4. Customer Analysis
 
-- ElectroMart has a customer base of **4898** individuals, with over **40%** from U.P and Maharashtra. Only **2.9%** of customers are from Rajasthan, indicating low market penetration in the region.
+- ElectroMart has a customer base of **4989** individuals, with over **40%** from U.P and Maharashtra. Only **2.9%** of customers are from Rajasthan, indicating low market penetration in the region.
 - The top **10%** of the customers contribute only **23.5%** of total revenue, indicating low revenue concentration and a well-distributed customer spending pattern. This suggests lower dependency on high-value customers but also highlights limited differentiation between customer segments.
 
 
@@ -131,7 +131,7 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 - Recommend complementary products using cross-selling techniques.
 - Focus on upselling premium product variants.
 
-**Expected Impact** : Higher revenue per order without increasing customer acquisition cost.
+**Expected Impact**: Higher revenue per order without increasing customer acquisition cost.
 
 ### 3. Leverage High-Margin Categories(Accessories & Audio)
 - Promote accessories and audio products through bundled offers with primary devices.
