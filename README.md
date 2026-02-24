@@ -138,7 +138,7 @@ This project follows the **Medallion Architecture(Bronze -> Silver -> Gold)** to
 - Improve visibility of high-margin products on the platform.
 - Design targeted marketing campaigns highlighting affordability and value.
 
-### 4. Strength Seasonal Sales Strategy(Q4 dependency)
+### 4. Strengthen Seasonal Sales Strategy(Q4 dependency)
 - Reduce heavy dependency on Q4 festival sales  by creating promotional campaigns in Q2 & Q3.
 - Introduce mid-year sales events and limited-time offers.
 
