@@ -11,7 +11,7 @@
 
 The company has experienced significant growth, generating approximately **Rs. 167 Crores in revenue** between **2020 and Q1 2025**. With a strong market presence, the company plans to expand its operations by entering additional cities and states across India, along with the introduction of new electronic products catering to the needs of a wide range of customers.
 
-To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025. This comprehensive review provides valuable insights that will be utilized to streamline processes, imporove profitability, and develop a sustainable growth strategy for future expansion.
+To support this expansion, the Head of Operations of ElectroMart has asked the analytics team to analyse historical sales data from 2020 to 2025. This comprehensive review provides valuable insights that will be utilized to streamline processes, improve profitability, and develop a sustainable growth strategy for future expansion.
 
 ### PROJECT OBJECTIVE
 
